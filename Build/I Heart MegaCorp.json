@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Text Adventure",
+"dataUrl": "I Heart MegaCorp.data.unityweb",
+"wasmCodeUrl": "I Heart MegaCorp.wasm.code.unityweb",
+"wasmFrameworkUrl": "I Heart MegaCorp.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
